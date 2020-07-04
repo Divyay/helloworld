@@ -45,16 +45,16 @@ Now, follow the steps from step 4.
 
 Part 2: Pushing the Changes to Github
 
-Step 1: Go to your Github account. You will see a screen similar like below:
+Step 1: Go to your Github account. You will see a screen similar to this:
 
-Step 2: Click on New on top left. Give name to the repository. I prefer this to match with your local repository. Let's give it as helloworld.
+Step 2: Click on New on top left. Give name to the repository. I prefer the name we give here match with your local repository. Let's give it as helloworld.
 
 Step 3: Do not, initialize the repository with readme file.  Click on Create repository
 
 Step 4: This creates a repository for the project
 
 Step 5: It's time to push the local repository changes to Github.
-Open any terminal. I would usually prefer the intelliJ terminal which is in the bottom of the IDE. Go to the location where you have the project.
+Open any terminal. I would usually prefer the intelliJ terminal which is at the bottom of the IDE. Now, go to the location where you have the project.
 
 Step 6: Initialize the project by git init command
 
@@ -62,7 +62,7 @@ Step 7: Now, link the Github repository to Git. Copy the URL that you see in you
 
 Step 8: Now, goto the terminal and type git remote add origin <url> 
 
-Step 9: It creates all red marks in the java files.
+Step 9: It creates all red marks in the java files as these are not in your Git yet
 
 Step 10: If this is the first time creating the git project and pushing them to Github, I would suggest to follow the steps in https://beginnersword.blogspot.com/2020/07/getting-started-with-git-and-github.html
 from step 2.
